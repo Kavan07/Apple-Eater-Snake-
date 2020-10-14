@@ -1,1 +1,1 @@
-# Apple-Eater-Snake-
+# Apple-Eater-Snake
